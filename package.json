@@ -1,0 +1,31 @@
+{
+  "name": "helper",
+  "version": "1.0.0",
+  "description": "collection of generally used javascript functions in one library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbarve1/helper.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hbarve1/helper.js/issues"
+  },
+  "homepage": "https://github.com/hbarve1/helper.js#readme",
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-plugin-import": "2.24.0",
+    "eslint-plugin-jest": "24.4.0",
+    "husky": "7.0.1",
+    "jest": "27.0.6",
+    "prettier": "2.3.2"
+  }
+}
