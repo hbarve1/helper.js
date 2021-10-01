@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/hbarve1/helper.js#readme",
   "devDependencies": {
+    "@types/jest": "27.0.1",
     "eslint": "7.32.0",
     "eslint-config-airbnb-base": "14.2.1",
     "eslint-config-prettier": "8.3.0",
